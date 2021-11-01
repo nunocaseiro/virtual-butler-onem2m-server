@@ -1,0 +1,20 @@
+{
+    "csebase": "onem2m",
+    "cseid": "/onem2m",
+    "csebaseport": "7579",
+    "csetype": "in",
+    "dbhost": "localhost", 
+    "dbuser": "root",
+    "dbpass": "smarthome21!",
+    "dbname": "mobiusdb",
+    "superadm_usr": "superadmin",
+    "superadm_pwd": "smarthome21",
+    "pxymqttport": 1883,
+    "pxycoapport": 5683,
+	"pxywsport": 7577,
+    "tsagentport": 7582,
+    "mqttbroker": "localhost",
+    "secure": "disable",
+    "authorization": false,
+	"logDir": "./log"	
+}
